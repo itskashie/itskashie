@@ -1,9 +1,9 @@
-<h1 align="center">Muhammad Qasim</h1>
+ <h1 align="center">Muhammad Qasim</h1>
 <h3 align="center">Founder & CEO | Data Science Student | Innovator in AI, Robotics & Privacy-first Technology</h3>
 
 ---
 
-### 👋 Introduction
+### Intro
 I’m a **Tech Entrepreneur** and **Data Scientist** driven by a mission to create **human-centered, privacy-first innovations**.  
 As the **Founder & CEO of Anon**, I lead a team focused on building secure, intelligent, and ethical technologies that empower people and protect digital freedom.  
 
@@ -11,21 +11,22 @@ With a background in **AI, Data Science, and Automation**, I merge technical exp
 
 ---
 
-### 💼 Professional Journey
+### Professional Journey
 - **Founder & CEO — Anon Dev Lab**  
   Leading innovation in AI, privacy, and automation systems.  
 - **Data Science Intern — Google**  
-  Worked on scalable data intelligence and predictive analytics.  
+  Worked on scalable data intelligence and predictive analytics.
+- **Research Analyst — ISI (Pakistan)**  
+  Data-driven security intelligence and predictive modeling.
 - **AI & Cloud Intern — Microsoft**  
   Focused on cloud-native ML solutions and optimization pipelines.  
 - **Research Data Scientist — Lockheed Martin**  
   Contributed to defense-grade analytics and autonomous systems.  
-- **Research Analyst — ISI (Pakistan)**  
-  Data-driven security intelligence and predictive modeling.
+
 
 ---
 
-### 🔍 Areas of Expertise
+### Areas of Expertise
 - Artificial Intelligence & Machine Learning  
 - Deep Learning & Computer Vision  
 - Privacy-first Cybersecurity Systems  
@@ -35,18 +36,28 @@ With a background in **AI, Data Science, and Automation**, I merge technical exp
 
 ---
 
-### ⚙️ Technical Proficiency
-**Languages:** Python, C++, JavaScript  
-**Frameworks & Tools:** TensorFlow, PyTorch, React, Node.js, GitHub  
-**Domains:** AI Research, Automation, Cybersecurity, Cloud Infrastructure  
+---
+
+### Technical Proficiency
+#### Languages  
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+
+#### Frameworks & Tools  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ---
 
-### 🧭 Leadership Philosophy
+### Leadership Philosophy
 > “Innovation is not just about technology — it’s about integrity, vision, and impact.”
 
 I believe in **leading with purpose**, building technologies that enhance trust and protect humanity’s digital future.
 
 ---
 
-⭐ **Innovate with Integrity — Build for Humanity.**
+**Innovate with Integrity — Build for Humanity.**
