@@ -36,8 +36,6 @@ With a background in **AI, Data Science, and Automation**, I merge technical exp
 
 ---
 
----
-
 ### Technical Proficiency
 #### Languages  
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
