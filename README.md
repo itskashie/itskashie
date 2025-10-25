@@ -1,4 +1,4 @@
- <h1 align="center">Muhammad Qasim</h1>
+
 <h3 align="center">Founder & CEO | Data Science Student | Innovator in AI, Robotics & Privacy-first Technology</h3>
 
 ---
