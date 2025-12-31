@@ -1,62 +1,69 @@
+<div align="center">
 
-<h3 align="center">Founder & CEO | Data Science Student | Innovator in AI, Robotics & Privacy-first Technology</h3>
+<h1>Anon</h1>
 
----
+<p><i>Engineering intelligence. Protecting humanity.</i></p>
 
-### Intro
-I’m a **Tech Entrepreneur** and **Data Scientist** driven by a mission to create **human-centered, privacy-first innovations**.  
-As the **Founder & CEO of Anon**, I lead a team focused on building secure, intelligent, and ethical technologies that empower people and protect digital freedom.  
+<br/>
 
-With a background in **AI, Data Science, and Automation**, I merge technical expertise with strategic vision — creating solutions that are not only advanced but also responsible.
+<b>Founder & CEO • Data Science Student • AI & Robotics Engineer</b>
 
----
-
-### Professional Journey
-- **Founder & CEO — Anon**  
-  Leading innovation in AI, privacy, and automation systems.  
-- **Data Science Intern — Google**  
-  Worked on scalable data intelligence and predictive analytics.
-- **Research Analyst — ISI (Pakistan)**  
-  Data-driven security intelligence and predictive modeling.
-- **AI & Cloud Intern — Microsoft**  
-  Focused on cloud-native ML solutions and optimization pipelines.  
-- **Research Data Scientist — Lockheed Martin**  
-  Contributed to defense-grade analytics and autonomous systems.  
-
+</div>
 
 ---
 
-### Areas of Expertise
-- Artificial Intelligence & Machine Learning  
-- Deep Learning & Computer Vision  
-- Privacy-first Cybersecurity Systems  
-- Cloud & Edge Computing  
-- Automation & Full-Stack Development  
-- Data Analytics & Decision Intelligence  
+## About
+
+I’m a **Tech Entrepreneur** and **Data Science student** working at the frontier of
+**Artificial Intelligence, Robotics, and Privacy-first Systems**.
+
+As **Founder & CEO of Anon**, I design and lead the development of **secure, ethical, and autonomous technologies** — transforming advanced research into real-world impact.
 
 ---
 
-### Technical Proficiency
-#### Languages  
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+## Focus Areas
 
-#### Frameworks & Tools  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+* Artificial Intelligence & Machine Learning
+* Data Science & Decision Intelligence
+* **Robotics Designer & Programmer**
+* Computer Vision & Autonomous Systems
+* Privacy-first Cybersecurity Architecture
+* Cloud, Edge & Automation Platforms
 
 ---
 
-### Leadership Philosophy
-> “Innovation is not just about technology — it’s about integrity, vision, and impact.”
+## Stack
 
-I believe in **leading with purpose**, building technologies that enhance trust and protect humanity’s digital future.
+### Programming
+
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge\&logo=javascript)
+![MATLAB](https://img.shields.io/badge/MATLAB-0A0A0A?style=for-the-badge\&logo=mathworks)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge\&logo=postgresql)
+
+### AI • Robotics • Systems
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge\&logo=tensorflow)
+![ROS](https://img.shields.io/badge/ROS-0A0A0A?style=for-the-badge\&logo=ros)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge\&logo=opencv)
+![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge\&logo=arduino)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-0A0A0A?style=for-the-badge\&logo=raspberrypi)
 
 ---
 
+## Robotics Engineering
 
-**Innovate with Integrity — Build for Humanity.**
+* Autonomous robot architecture & control
+* Embedded systems & sensor fusion
+* Vision-based navigation and perception
+* Simulation-to-deployment pipelines
+
+---
+
+## Ethos
+
+> **Power without ethics is failure.**
+
+**Build silently. Engineer precisely. Protect humanity.**
