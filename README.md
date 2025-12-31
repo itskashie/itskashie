@@ -12,7 +12,7 @@ With a background in **AI, Data Science, and Automation**, I merge technical exp
 ---
 
 ### Professional Journey
-- **Founder & CEO — Anon Dev Lab**  
+- **Founder & CEO — Anon**  
   Leading innovation in AI, privacy, and automation systems.  
 - **Data Science Intern — Google**  
   Worked on scalable data intelligence and predictive analytics.
