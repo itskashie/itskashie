@@ -1,12 +1,17 @@
 <div align="center">
 
-<h1>Anoneurx</h1>
+# ANONEURX
 
-<p><i>Engineering intelligence. Protecting humanity.</i></p>
+### Engineering Intelligence
 
-<br/>
+### *Building the Future Stack*
 
-<b>Founder & CEO • Data Science Student • AI & Robotics Engineer</b>
+<br>
+
+> Systems. AI. Infrastructure.
+> Designed to be fast, private, and powerful.
+
+<br>
 
 </div>
 
@@ -14,56 +19,127 @@
 
 ## About
 
-I’m a **Tech Entrepreneur** and **Data Science student** working at the frontier of
-**Artificial Intelligence, Robotics, and Privacy-first Systems**.
+Anoneurx is an independent software company focused on building **high-performance, privacy-first systems**.
 
-As **Founder & CEO of Anon**, I design and lead the development of **secure, ethical, and autonomous technologies** — transforming advanced research into real-world impact.
+Built and scaled by a solo founder, the company has already generated
+**50+ lakh PKR in revenue within 5 months** — proving execution, speed, and real-world traction.
 
----
+We are not just building apps.
 
-## Focus Areas
-
-* Artificial Intelligence & Machine Learning
-* Data Science & Decision Intelligence
-* **Robotics Designer & Programmer**
-* Computer Vision & Autonomous Systems
-* Privacy-first Cybersecurity Architecture
-* Cloud, Edge & Automation Platforms
+We are building an **ecosystem**.
 
 ---
 
-## Stack
+## What We’re Building
 
-### Programming
+A vertically integrated technology stack designed for the next generation:
 
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge\&logo=cplusplus)
+* A **modern operating system**
+* A unified **AI-powered environment**
+* Privacy-first **cloud infrastructure**
+* Developer tools that prioritize **speed and control**
+
+---
+
+## Core Products
+
+### Black Wall OS
+
+A next-generation operating system focused on:
+
+* Performance at the core
+* Clean, immersive UI
+* Deep system-level control
+* Security by design
+
+> Foundation of the Anoneurx ecosystem.
+
+---
+
+### AI Ecosystem
+
+An integrated intelligence layer across all products:
+
+* AI assistant for **Anoneurx Cloud**
+* Deep integration with **Black Wall OS**
+* Designed for **fast, local-first responses**
+
+---
+
+### Platform & Extensions
+
+* High-performance browser extensions
+* **12M+ installs** across products
+* Built for scale, speed, and usability
+
+---
+
+### Fintech Systems
+
+* Banking applications (national & international)
+* Crypto-integrated infrastructure
+* Focused on secure, modern financial experiences
+
+---
+
+## Technology
+
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge\&logo=javascript)
-![MATLAB](https://img.shields.io/badge/MATLAB-0A0A0A?style=for-the-badge\&logo=mathworks)
-![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge\&logo=postgresql)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge\&logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge\&logo=rust)
+![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge\&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge\&logo=swift)
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge\&logo=php)
 
-### AI • Robotics • Systems
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge\&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge\&logo=vite)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge\&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge\&logo=tensorflow)
-![ROS](https://img.shields.io/badge/ROS-0A0A0A?style=for-the-badge\&logo=ros)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge\&logo=opencv)
-![Arduino](https://img.shields.io/badge/Arduino-0A0A0A?style=for-the-badge\&logo=arduino)
-![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-0A0A0A?style=for-the-badge\&logo=raspberrypi)
+![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge\&logo=android)
+![iOS](https://img.shields.io/badge/iOS-0A0A0A?style=for-the-badge\&logo=apple)
 
----
-
-## Robotics Engineering
-
-* Autonomous robot architecture & control
-* Embedded systems & sensor fusion
-* Vision-based navigation and perception
-* Simulation-to-deployment pipelines
+</div>
 
 ---
 
-## Ethos
+## Philosophy
 
-> **Power without ethics is failure.**
+We believe software should:
 
-**Build silently. Engineer precisely. Protect humanity.**
+* Respect user privacy
+* Respond instantly
+* Feel powerful, not bloated
+* Be engineered end-to-end
+
+We don’t follow trends.
+We build systems.
+
+---
+
+## Roadmap
+
+* Black Wall OS — core architecture expansion
+* AI integration across the full stack
+* Developer ecosystem & tooling
+* Independent cloud infrastructure
+
+---
+
+<div align="center">
+
+## The Goal
+
+### Build technology that can stand on its own.
+
+Not dependent. Not compromised. Not slow.
+
+<br>
+
+**Anoneurx**
+
+</div>
