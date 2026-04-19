@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Anon</h1>
+<h1>Anoneurx</h1>
 
 <p><i>Engineering intelligence. Protecting humanity.</i></p>
 
