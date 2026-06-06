@@ -9,11 +9,11 @@
 
 ---
 
-```bash
+```
 qasim@anoneurx:~$ neofetch
 ```
 
-```text
+```
        .---.       USER: muhammad qasim
       /     \      ROLE: Founder & Principal Architect @ ANONEURX
   ~  ` ( " ) `     PARADIGM: Distributed Architectures & Algorithmic Determinism
@@ -25,7 +25,7 @@ qasim@anoneurx:~$ neofetch
 
 ```
 
-```bash
+```
 qasim@anoneurx:~$ cat executive_overview.md
 
 ```
@@ -36,7 +36,7 @@ His architectural purview encompasses low-level operating system kernels, local-
 
 ---
 
-```bash
+```
 qasim@anoneurx:~$ list-core-pillars
 
 ```
