@@ -1,72 +1,72 @@
 <div align="center">
-  
-# Hi, I'm Muhammad Qasim 👋
 
-Founder & Lead Developer at ANONEURX
+# Muhammad Qasim
 
-Data Science Student | Systems Developer
+### Founder of ANONEURX
 
-«Engineering Intelligence. Building the Future Stack.»
+*Systems Engineering • Artificial Intelligence • Open Source*
+
+> Building software, systems, and technologies that push innovation forward.
+
 </div>
+
+---
 
 ## About Me
 
-I'm Muhammad Qasim, a Data Science student and the founder of ANONEURX.
+I'm Muhammad Qasim, founder of ANONEURX and a technology enthusiast with interests in systems engineering, artificial intelligence, cybersecurity, cloud infrastructure, and software development.
 
-My work focuses on building intelligent systems, AI-powered applications, developer infrastructure, automation platforms, cybersecurity tools, robotics software, and next-generation computing solutions.
+I enjoy exploring new technologies, building ambitious projects, and contributing to open-source initiatives that create meaningful impact.
 
-I enjoy working across the entire technology stack from low-level systems programming to modern AI architectures and scalable cloud infrastructure.
 ---
 
-## Technology
+# Technology Ecosystem
+
+### Systems & Programming Languages
+
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge\&logo=rust)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge\&logo=lua)
+![Shell](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnu-bash)
+
+### Web Engineering
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge\&logo=vite)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge\&logo=php)
+
+### Mobile Development
+
+![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge\&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge\&logo=kotlin)
+![iOS](https://img.shields.io/badge/iOS-111111?style=for-the-badge\&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift)
+
+### AI, Data & Infrastructure
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge\&logo=openai)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge\&logo=tensorflow)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-111111?style=for-the-badge\&logo=googlecloud)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge\&logo=hackthebox)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
+
+---
+
+## Philosophy
+
+> Simplicity in design. Excellence in execution. Innovation without limits.
+
+---
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust)
-![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift)
-![Lua](https://img.shields.io/badge/Lua-0A0A0A?style=for-the-badge&logo=lua)
-![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php)
-![Shell Script](https://img.shields.io/badge/Shell_Script-0A0A0A?style=for-the-badge&logo=gnu-bash)
+**ANONEURX**
 
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite)
-
-![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android)
-![iOS](https://img.shields.io/badge/iOS-0A0A0A?style=for-the-badge&logo=apple)
+*Engineering Intelligence • Building the Future*
 
 </div>
-
----
-
-## Open Source
-
-I strongly believe in open collaboration and knowledge sharing.
-
-Most of my projects are designed to be:
-
-- Open Source
-- Community Driven
-- Privacy Respecting
-
----
-
-## Vision
-
-To build technology that empowers people through intelligence, automation, security, and innovation.
-
-The future belongs to systems that are not only powerful but also transparent, accessible, and open.
-
----
-
-## Quote
-
-«"Code the future. Engineer intelligence. Build without limits."»
-
----
