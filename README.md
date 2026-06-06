@@ -62,11 +62,3 @@ I enjoy exploring new technologies, building ambitious projects, and contributin
 > Simplicity in design. Excellence in execution. Innovation without limits.
 
 ---
-
-<div align="center">
-
-**ANONEURX**
-
-*Engineering Intelligence • Building the Future*
-
-</div>
