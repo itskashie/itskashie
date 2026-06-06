@@ -1,64 +1,50 @@
+
 <div align="center">
 
 # Muhammad Qasim
 
 ### Founder of ANONEURX
 
-*Systems Engineering • Artificial Intelligence • Open Source*
-
-> Building software, systems, and technologies that push innovation forward.
-
 </div>
 
 ---
 
-## About Me
+```bash
+qasim@anoneurx:~$ neofetch
+```
 
-I'm Muhammad Qasim, founder of ANONEURX and a technology enthusiast with interests in systems engineering, artificial intelligence, cybersecurity, cloud infrastructure, and software development.
+```text
+       .---.       USER: muhammad qasim
+      /     \      ROLE: Founder & Principal Architect @ ANONEURX
+  ~  ` ( " ) `     PARADIGM: Distributed Architectures & Algorithmic Determinism
+ / \_  `---'       INFRASTRUCTURE: Low-Level Kernels & Local-First Intelligence Layers
+/   / \_           PHILOSOPHY: Simplicity in design. Excellence in execution.
+\ _/  / \
+ /___/   \
+  `       `
 
-I enjoy exploring new technologies, building ambitious projects, and contributing to open-source initiatives that create meaningful impact.
+```
 
----
+```bash
+qasim@anoneurx:~$ cat executive_overview.md
 
-# Technology Ecosystem
+```
 
-### Systems & Programming Languages
+Muhammad Qasim is a multidisciplinary polymath synthesizing complex computational paradigms into highly scalable, deterministic technologies.
 
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge\&logo=rust)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
-![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge\&logo=lua)
-![Shell](https://img.shields.io/badge/Bash-111111?style=for-the-badge\&logo=gnu-bash)
-
-### Web Engineering
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge\&logo=vite)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge\&logo=php)
-
-### Mobile Development
-
-![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge\&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge\&logo=kotlin)
-![iOS](https://img.shields.io/badge/iOS-111111?style=for-the-badge\&logo=apple)
-![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge\&logo=swift)
-
-### AI, Data & Infrastructure
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge\&logo=openai)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge\&logo=tensorflow)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-111111?style=for-the-badge\&logo=googlecloud)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge\&logo=hackthebox)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
+His architectural purview encompasses low-level operating system kernels, local-first intelligence layers, autonomous orchestration frameworks, and robust, ironclad infrastructures. Driven by algorithmic excellence, Qasim relentlessly explores the convergence of edge computing, deep technical stack optimization, and advanced cybernetics to pioneer self-sustaining technology that redefines computational capability.
 
 ---
 
-## Philosophy
+```bash
+qasim@anoneurx:~$ list-core-pillars
 
-> Simplicity in design. Excellence in execution. Innovation without limits.
+```
+
+### 🧠 Core Architectural Tenets
+
+* **Systems Engineering:** Designing high-performance computing ecosystems and autonomous digital infrastructure from the bare metal up.
+* **Distributed Intellect:** Orchestrating decentralized machine intelligence and local-first execution frameworks.
+* **Cryptographic Resilience:** Engineering ironclad, secure, and privacy-centric environments capable of standing entirely on their own.
 
 ---
