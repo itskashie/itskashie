@@ -15,30 +15,7 @@ I'm Muhammad Qasim, a Data Science student and the founder of ANONEURX.
 
 My work focuses on building intelligent systems, AI-powered applications, developer infrastructure, automation platforms, cybersecurity tools, robotics software, and next-generation computing solutions.
 
-I enjoy working across the entire technology stack—from low-level systems programming to modern AI architectures and scalable cloud infrastructure.
-
-My goal is to create technology that is:
-
-- Fast
-- Secure
-- Private
-- Intelligent
-- Open Source
-
----
-
-
-## Current Focus
-
-- AI Agents & Autonomous Systems
-- Data Science & Predictive Analytics
-- Robotics Control Systems
-- Neural Network Research
-- Privacy-First Technologies
-- Open Source Infrastructure
-- High-Performance Applications
-- Linux-Based System Tools
-
+I enjoy working across the entire technology stack from low-level systems programming to modern AI architectures and scalable cloud infrastructure.
 ---
 
 ## Technology
@@ -77,7 +54,6 @@ Most of my projects are designed to be:
 - Open Source
 - Community Driven
 - Privacy Respecting
-- Developer Friendly
 
 ---
 
