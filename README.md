@@ -14,7 +14,7 @@ qasim@anoneurx:~$ neofetch
 ```
 
 ```
-       .---.       USER: muhammad qasim
+       .---.       USER: Muhammad Qasim
       /     \      ROLE: Founder & Principal Architect @ ANONEURX
   ~  ` ( " ) `     PARADIGM: Distributed Architectures & Algorithmic Determinism
  / \_  `---'       INFRASTRUCTURE: Low-Level Kernels & Local-First Intelligence Layers
@@ -22,23 +22,20 @@ qasim@anoneurx:~$ neofetch
 \ _/  / \
  /___/   \
   `       `
-
 ```
 
 ```
 qasim@anoneurx:~$ cat executive_overview.md
-
 ```
 
-Muhammad Qasim is a multidisciplinary polymath synthesizing complex computational paradigms into highly scalable, deterministic technologies.
+**Muhammad Qasim** is a multidisciplinary polymath synthesizing complex computational paradigms into highly scalable, deterministic technologies.
 
-His architectural purview encompasses low-level operating system kernels, local-first intelligence layers, autonomous orchestration frameworks, and robust, ironclad infrastructures. Driven by algorithmic excellence, Qasim relentlessly explores the convergence of edge computing, deep technical stack optimization, and advanced cybernetics to pioneer self-sustaining technology that redefines computational capability.
+My architectural purview encompasses low-level operating system kernels, local-first intelligence layers, autonomous orchestration frameworks, and robust, ironclad infrastructures. Driven by algorithmic excellence, I'm relentlessly explores the convergence of edge computing, deep technical stack optimization, and advanced cybernetics to pioneer self-sustaining technology that redefines computational capability.
 
 ---
 
 ```
 qasim@anoneurx:~$ list-core-pillars
-
 ```
 
 ### 🧠 Core Architectural Tenets
