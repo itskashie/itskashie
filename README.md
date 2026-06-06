@@ -27,24 +27,6 @@ My goal is to create technology that is:
 
 ---
 
-## ANONEURX
-
-ANONEURX is an engineering-driven technology initiative focused on developing advanced software, artificial intelligence systems, infrastructure tools, robotics frameworks, and future computing technologies.
-
-Core Areas
-
-- Artificial Intelligence
-- Data Science & Analytics
-- Machine Learning
-- Neural Systems
-- Robotics Software
-- Cybersecurity
-- Cloud Infrastructure
-- Distributed Systems
-- Open Source Development
-- Developer Tools
-
----
 
 ## Current Focus
 
@@ -56,10 +38,6 @@ Core Areas
 - Open Source Infrastructure
 - High-Performance Applications
 - Linux-Based System Tools
-
----
-
-
 
 ---
 
